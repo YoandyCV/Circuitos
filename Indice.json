@@ -1,6 +1,6 @@
 {
-       "images": [
-         "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen1.jpg",
-         "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen2.jpg"
-       ]
-     }
+    "Protector": "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen1.jpg",
+    "Amplificador": "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen2.jpg",
+    "Altavoz": "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen3.jpg",
+    "Microfono": "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen4.jpg"
+}
