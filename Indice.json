@@ -1,6 +1,5 @@
 {
-    "Protector": "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen1.jpg",
-    "Amplificador": "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen2.jpg",
-    "Altavoz": "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen3.jpg",
-    "Microfono": "https://raw.githubusercontent.com/tu-usuario/mi-galeria-imagenes/main/images/imagen4.jpg"
+    "Amplificador_400W": "https://yoandycv.github.io/Circuitos/images/Amplificador_400w.jpg",
+    "BMS_3S": "https://yoandycv.github.io/Circuitos/images/BMS_3S.jpg",
+    "Cargador_Litio_transistores.png": "https://yoandycv.github.io/Circuitos/images/Cargador_Litio_transistores.png"
 }
